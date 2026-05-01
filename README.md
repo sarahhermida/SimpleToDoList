@@ -13,6 +13,12 @@ The program allows users to manage a simple to-do list through a menu-driven int
 - User input handling using Scanner
 - Basic error handling for invalid task selection
 
+## Future Improvements
+
+- Edit existing tasks
+- Save tasks to a file
+- Mark tasks as completed
+
 ## How to Run
 
 Compile:
