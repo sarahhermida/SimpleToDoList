@@ -18,6 +18,7 @@ The program allows users to manage a simple to-do list through a menu-driven int
 - Edit existing tasks
 - Save tasks to a file
 - Mark tasks as completed
+- Add a GUI
 
 ## How to Run
 
